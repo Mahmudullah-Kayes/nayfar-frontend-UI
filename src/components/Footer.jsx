@@ -96,10 +96,6 @@ export default function Footer() {
           <span className="text-[11px] text-[rgba(240,237,230,0.3)] tracking-[0.05em]">
             © 2024 Nayfar Group. All rights reserved.
           </span>
-          <div className="flex items-center gap-2 text-[10px] tracking-[0.2em] uppercase text-[#c9a84c]">
-            <span>◈</span>
-            <span>Parent Company</span>
-          </div>
           <div className="flex items-center gap-3 text-[10px] tracking-[0.2em] uppercase text-[rgba(240,237,230,0.45)]">
             <span>Developed by</span>
             <img

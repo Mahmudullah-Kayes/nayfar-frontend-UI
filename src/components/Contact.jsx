@@ -10,8 +10,8 @@ const reveal = (delay = 0) => ({
 })
 
 const contactInfo = [
-  { label: 'Email Address', val: 'hello@nayfar.com', href: 'mailto:hello@nayfar.com' },
-  { label: 'WhatsApp', val: '+44 7000 000000', href: 'https://wa.me/447000000000' },
+  { label: 'Email Address', val: 'info.nayfar@gmail.com', href: 'mailto:info.nayfar@gmail.com' },
+  { label: 'WhatsApp', val: '01621223112', href: 'https://wa.me/01621223112' },
 ]
 
 const inputClass =
